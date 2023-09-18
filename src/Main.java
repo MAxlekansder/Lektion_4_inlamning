@@ -4,12 +4,12 @@ public class Main {
         //New Comment 
         System.out.println("Hello world!");
 
-        //uppgift 6 New Comment
-        //ny grej för uppgift 7 i main
+        //här försöker vi med uppgift 7
 
-        //nu testar vi igen
+        // lägger vi till pushen och commit igen
 
-        //test!
-        
+
+        //test igen!
+
     }
 }
