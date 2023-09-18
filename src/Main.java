@@ -3,5 +3,7 @@ public class Main {
 
         //New Comment 
         System.out.println("Hello world!");
+
+        //ny grej för uppgift 7 i main
     }
 }
